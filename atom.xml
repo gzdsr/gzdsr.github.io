@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>网站标题</title>
+  <title>固执读书人</title>
   
-  <subtitle>网站副标题</subtitle>
+  <subtitle>大丈夫当如是</subtitle>
   <link href="https://gzdsr.github.io/atom.xml" rel="self"/>
   
   <link href="https://gzdsr.github.io/"/>
